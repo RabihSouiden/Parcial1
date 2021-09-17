@@ -1,9 +1,5 @@
-<h1 align="center">Sistema de Ciudadanos de 4 Patas</h1>
-<p align="center">El sistema de ciudadanos de 4 patas
-es un sistema que dará un apoyo en la gestión y control 
-de las veterinarias sobre las mascotas, propietarios de mascotas y funcionarios de la alcaldía.
-</p>
-<p align="center">
+<h1 align="center">Parcial 1</h1>
+
 
 ![GitHub](https://github.com/RabihSouiden/parcial1)
 </p>
@@ -13,7 +9,7 @@ de las veterinarias sobre las mascotas, propietarios de mascotas y funcionarios 
 ```bash
 git clone https://github.com/RabihSouiden/parcial1
 ```
-2. Open `Script_DB_DDL` to see the Script DLL
+2. Open `Script_parcial` to see the Solution
 
 
 ## About the Author
